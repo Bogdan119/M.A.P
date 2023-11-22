@@ -1,0 +1,18 @@
+Scrieți un program care să afișeze suma numerelor de la 1 la 100 .
+Scrieți un program care să determine produsul primelor 10 numere naturale.
+Scrieți un program care să afișeze primele 20 de numere impare.
+Determinați cel mai mare divizor comun (CMMD) a două numere întregi citite de la tastatură.
+Scrieți un program care să calculeze factorialul unui număr întreg citit de la tastatură.
+Determinați dacă un număr întreg dat este un număr prim.
+Scrieți un program care să determine ziua săptămânii pe baza unui număr de la 1 la 7, unde 1 reprezintă luni și 7 reprezintă duminică
+Determinați dacă un număr dat este un număr par sau impar
+Scrieți un program care să determine dacă un an citit de la tastatură este un an bisect
+Calculați suma a două numere întregi citite de la tastatură și afișați rezultatul
+Determinați dacă un număr întreg citit de la tastatură este pozitiv sau negativ și afișați rezultatul
+Scrieți un program care să afișeze numerele Fibonacci până la un anumit termen citit de la tastatură și să le afișeze
+Scrieți un program care să determine suma și media a unei liste de numere citite de la tastatură
+Determinați cel mai mic și cel mai mare număr dintr-o listă de numere citite de la tastatură
+Sortați un vector de 8 elemente citite de la tastatură, folosiți metoda Bubble Sort.
+A se rezolva ecuația de Gradul al doilea folosind un program scris in Python.
+Se citesc 3 numere de la tastatură să se afișeze dacă acestea pot reprezenta unghiurile unui triunghi.
+My work
